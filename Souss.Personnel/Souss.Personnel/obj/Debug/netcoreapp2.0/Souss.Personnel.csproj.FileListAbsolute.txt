@@ -1,0 +1,4 @@
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Personnel\obj\Debug\netcoreapp2.0\Souss.Personnel.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Personnel\obj\Debug\netcoreapp2.0\Souss.Personnel.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Personnel\obj\Debug\netcoreapp2.0\Souss.Personnel.AssemblyInfoInputs.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Personnel\obj\Debug\netcoreapp2.0\Souss.Personnel.AssemblyInfo.cs

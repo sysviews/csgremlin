@@ -1,0 +1,24 @@
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.Model.dll
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.csprojAssemblyReference.cache
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.AssemblyInfoInputs.cache
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.AssemblyInfo.cs
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.DataLayer.deps.json
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.DataLayer.dll
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.DataLayer.pdb
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.Model.pdb
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.csproj.CopyComplete
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.dll
+C:\Users\4sous\source\repos\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.pdb
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.DataLayer.deps.json
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.DataLayer.dll
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.DataLayer.pdb
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.Model.dll
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\bin\Debug\netcoreapp2.1\Souss.Model.pdb
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.AssemblyInfo.cs
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.csproj.CopyComplete
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.dll
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.DataLayer\obj\Debug\netcoreapp2.1\Souss.DataLayer.pdb

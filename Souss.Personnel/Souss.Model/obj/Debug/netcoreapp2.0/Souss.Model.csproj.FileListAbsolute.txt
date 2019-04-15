@@ -1,0 +1,9 @@
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\bin\Debug\netcoreapp2.0\Souss.Model.deps.json
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\bin\Debug\netcoreapp2.0\Souss.Model.dll
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\bin\Debug\netcoreapp2.0\Souss.Model.pdb
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\obj\Debug\netcoreapp2.0\Souss.Model.csprojResolveAssemblyReference.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\obj\Debug\netcoreapp2.0\Souss.Model.csproj.CoreCompileInputs.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\obj\Debug\netcoreapp2.0\Souss.Model.AssemblyInfoInputs.cache
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\obj\Debug\netcoreapp2.0\Souss.Model.AssemblyInfo.cs
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\obj\Debug\netcoreapp2.0\Souss.Model.dll
+C:\Users\Sami\Documents\Business\Course Creation\Courses\Gremlin Rest\Codebase\Souss.Personnel\Souss.Model\obj\Debug\netcoreapp2.0\Souss.Model.pdb
